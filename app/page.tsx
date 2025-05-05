@@ -119,7 +119,7 @@ const TextCaseConverter = () => {
         <div className="flex flex-col min-h-screen items-end justify-center gap-5 max-w-3xl mx-auto">
             <Button asChild>
                 <a
-                    href="https://github.com/azkriven16/paste2image"
+                    href="https://github.com/azkriven16/case-converter"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex text-sm"
