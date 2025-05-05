@@ -9,11 +9,12 @@ A lightweight web app built with [Next.js](https://nextjs.org/), [shadcn/ui](htt
 ## ✨ Features
 
 -   🔡 Convert text to uppercase
--    lower case
--   Title Case
--   Sentence case
--   Alternating Case
--   Inverse Case
+-   Convert text to lowercase
+-   Convert text to Title Case
+-   Convert text to Sentence case
+-   Convert text to camelCase
+-   Convert text to PascalCase
+-   Convert text to snake_case
 -   🧰 Simple, clean interface built with `shadcn/ui` components
 -   🎨 Easily customizable with Tailwind CSS
 
@@ -28,8 +29,8 @@ A lightweight web app built with [Next.js](https://nextjs.org/), [shadcn/ui](htt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/azkriven16/paste2image.git
-cd paste2image
+git clone https://github.com/azkriven16/case-converter.git
+cd case-converter
 
 npm install
 
