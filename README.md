@@ -1,8 +1,5 @@
-# Uppercase/Lowercase Tool
-
 **Convert text to ALL CAPS, lowercase, Title Case, etc.**
 
-A lightweight web app built with [Next.js](https://nextjs.org/), [shadcn/ui](https://ui.shadcn.com/), and [Tailwind CSS](https://tailwindcss.com/). Perfect for quickly converting text to different cases.
 
 ![Preview](public/opengraph-image.png)
 
@@ -10,7 +7,6 @@ A lightweight web app built with [Next.js](https://nextjs.org/), [shadcn/ui](htt
 
 -   🔡 Convert text to uppercase
 -   Convert text to lowercase
--   Convert text to Title Case
 -   Convert text to Sentence case
 -   Convert text to camelCase
 -   Convert text to PascalCase
